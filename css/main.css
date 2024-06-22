@@ -1,0 +1,18 @@
+
+.carousel-item img{
+    height: 600px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+form{
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
